@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ftp",
+  "version": "1.0.0",
+  "description": "使用nodejs搭建一套文件创建、更新",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andyliwr/nodejs-ftp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ftp"
+  ],
+  "author": "Andyliwr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andyliwr/nodejs-ftp/issues"
+  },
+  "homepage": "https://github.com/Andyliwr/nodejs-ftp#readme"
+}
